@@ -9,5 +9,5 @@ hacer tanto **Windows* como en **Linux**
 Para instalar Windows ...
 ## Linux
 Para instalar Linux ...
-##guia de uso
+## guia de uso
 En esta **seccion** *veremos* como usar la _aplicacion_ modulo __markdown__
